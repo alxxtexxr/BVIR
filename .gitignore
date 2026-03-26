@@ -2,3 +2,7 @@
 .vscode/
 __trash__/
 *.local.*
+
+# Notebook markdown files
+collect_visual_embs.md
+train_codebook_faiss.md
