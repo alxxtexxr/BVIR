@@ -6,3 +6,4 @@ __trash__/
 # Notebook markdown files
 collect_visual_embs.md
 train_codebook_faiss.md
+build_codebook_faiss.md
