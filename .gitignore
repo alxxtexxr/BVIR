@@ -8,3 +8,4 @@ collect_visual_embs.md
 train_codebook_faiss.md
 build_codebook_faiss.md
 extend_vlm_with_codebook.md
+sft.md
