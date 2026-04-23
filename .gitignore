@@ -2,6 +2,7 @@
 .vscode/
 __trash__/
 *.local.*
+*.v0*
 
 # Notebook markdown files
 collect_visual_embs.md
